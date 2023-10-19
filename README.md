@@ -1,2 +1,2 @@
 # Five-tips-for-Web-Development
-It is website created using html and css.
+Created a website using html and css.
